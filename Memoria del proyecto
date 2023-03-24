@@ -1,0 +1,20 @@
+5. Definición del público objetivo
+El perfil idóneo de usuarios que utilizarán la aplicación web son mujeres y hombres jóvenes de entre 20 y 25 años y adultos de entre 26 y 35 años de edad. La sencillez, rapidez y fiabilidad de la web serán características clave para que el usuario esté satisfecho.
+6. Tecnología utilizada
+La aplicación se desarrollará con la plataforma de desarrollo Microsoft .NET para la creación de aplicaciones y servicios web, que incluye el entorno ASP.NET basado en el Framework 4.0. Además se utilizará la tecnología AJAX, que permitirá que la aplicación se ejecute en el navegador de los usuarios mientras se mantiene la comunicación con el servidor en segundo plano, de forma que sea posible la interacción con el servidor sin necesidad de recargar la página web, mejorando la interactividad, velocidad y usabilidad de la misma. Finalmente, los datos serán almacenados, procesados y compartidos utilizando utilizando el gestor de bases de datos Microsoft SQL Server 2022, que al tratarse también de una tecnología de Microsoft permitirá una fácil integración con el resto de tecnologías. 
+
+
+Glosario
+* Usuario: Personas que utilizarán el nuevo producto (consumidores finales).
+* Cliente: Organización que solicita la creación del producto.
+
+
+Bibliografía
+Microsoft. (2021). .NET. Recuperado el 24 de marzo de 2023, de https://dotnet.microsoft.com/es-es/
+Microsoft. (2021). Desarrollo de aplicaciones web ASP.NET. Recuperado el 24 de marzo de 2023, de https://learn.microsoft.com/es-es/aspnet/overview
+Wikipedia. (s.f.). ASP.NET. En Wikipedia, la enciclopedia libre. Recuperado el 24 de marzo de 2023, de https://es.wikipedia.org/wiki/ASP.NET
+Tutoriales Programación YA. (s.f.). ASP.NET. Recuperado el 24 de marzo de 2023, de https://www.tutorialesprogramacionya.com/aspnetya/detalleconcepto.php?codigo=73
+Wikipedia. (s.f.). AJAX. En Wikipedia, la enciclopedia libre. Recuperado el 24 de marzo de 2023, de https://es.wikipedia.org/wiki/AJAX
+Jotelulu. (2022). Revisión y diferencias de SQL Server 2022. Recuperado el 24 de marzo de 2023, de https://jotelulu.com/blog/revision-y-diferencias-de-sql-server-2022/
+Gourmedia. (2017). Marketing gastronómico: cómo promocionar tu restaurante. Recuperado el 24 de marzo de 2023, de https://gourmedia.es/2017/03/01/marketing-gastronomico-restaurante/
+Hornero, P. (2018). Análisis y comercialización de un modelo de negocio. Dined, aplicación móvil para el servicio de restauración. (Trabajo de fin de grado). Universidad Politécnica de Valencia, España. Recuperado el 24 de marzo de 2023, de https://riunet.upv.es/bitstream
